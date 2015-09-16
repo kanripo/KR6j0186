@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:30.201907
+#+DATE: 2015-08-30 20:27:32.475779
 #+TITLE: 守護國界主陀羅尼經
 #+PROPERTY: CBETA_ID T19n0997
 #+PROPERTY: ID KR6j0186
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 997
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6j0186_T_002-0530a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 守護國界主陀羅尼經卷第二¶
+守護國界主陀羅尼經卷第二¶
 ¶
 罽賓國三藏沙門般若共牟尼室利譯¶
 陀羅尼品第二之二¶
