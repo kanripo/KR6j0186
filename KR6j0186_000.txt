@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 守護國界主陀羅尼經
+#+DATE: 2015-08-30 20:27:30.781385
+#+PROPERTY: JUAN 0
