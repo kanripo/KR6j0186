@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:32.475779
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:30
 #+TITLE: 守護國界主陀羅尼經
 #+PROPERTY: CBETA_ID T19n0997
 #+PROPERTY: ID KR6j0186
