@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:30.201907
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:30
 #+TITLE: 守護國界主陀羅尼經
 #+PROPERTY: CBETA_ID T19n0997
 #+PROPERTY: ID KR6j0186
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 2
 ¶
 
- 守護國界主陀羅尼經卷第二¶
+ 
+** 2守護國界主陀羅尼經卷第二¶
 ¶
 罽賓國三藏沙門般若共牟尼室利譯¶
 陀羅尼品第二之二¶
