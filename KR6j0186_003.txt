@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:27:30.233679
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:30
 #+TITLE: 守護國界主陀羅尼經
 #+PROPERTY: CBETA_ID T19n0997
 #+PROPERTY: ID KR6j0186
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 997
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0186_T_003-0534c> 
 #+PROPERTY: JUAN 3
 ¶
-
- 守護國界主陀羅尼經卷第三¶
+守護國界主陀羅尼經卷第三¶
 ¶
 罽賓國三藏沙門般若共牟尼室利譯¶
 陀羅尼品第二之三¶
@@ -277,9 +276,9 @@
 　得此最勝陀羅尼
 　說法常蒙諸佛護¶
 　大智能作眾生主
-　多劫讚歎不能窮
+　多劫讚歎不能窮」
 #+END_VERSE
-」¶
+¶
 
 爾時世尊稱讚一切法自在王菩薩言。善哉¶
 善哉善男子。汝能讚說此陀羅尼。如諸佛說¶
@@ -290,12 +289,8 @@
 睺羅伽人非人。比丘比丘尼優婆塞優婆夷¶
 等。皆於阿耨多羅三藐三菩提得不退轉。¶
 
-3大悲胎藏出生品
-:PROPERTIES:
-:head: 《守護國界主陀羅尼經》大悲胎藏出生品¶
+* 《守護國界主陀羅尼經》大悲胎藏出生品¶
 第三
-:END:
-
 <pb:KR6j0186_T_003-0537a>¶
 
 爾時文殊師利菩薩摩訶薩。即從座起偏袒¶
